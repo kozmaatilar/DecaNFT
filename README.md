@@ -20,3 +20,5 @@ npx hardhat --network ethereum-sepolia decaNFTMint --contract DecaNFT --token-id
 
 npx hardhat --network ethereum-goerli decaNFTSend --target-network ethereum-sepolia --token-id 1 --contract DecaNFT
 npx hardhat --network ethereum-sepolia decaNFTSend --target-network ethereum-goerli --token-id 2 --contract DecaNFT 
+
+Thanks
